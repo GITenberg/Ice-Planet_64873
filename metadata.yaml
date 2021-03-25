@@ -1,11 +1,16 @@
 _repo: Ice-Planet_64873
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64873-h/images/cover.jpg
 creator:
   author:
     agent_name: Selwyn, Carl
     gutenberg_agent_id: '51571'
     url: http://www.gutenberg.org/2009/agents/51571
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64873#Ice-Planet
 gutenberg_issued: '2021-03-19'
 gutenberg_type: Text
 identifiers:
